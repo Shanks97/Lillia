@@ -5,10 +5,10 @@ using System.Text;
 
 namespace LoLAPI.API
 {
-    public abstract class EndPoint 
+    public interface IEndPoint 
     {
         private static string _baseUrl = "https://{0}.api.riotgames.com/";
-        public abstract GameEnum GameType { get; }
+        public abstract GameEnum Game { get; }
 
         public abstract int Version { get; }
 
@@ -18,9 +18,14 @@ namespace LoLAPI.API
         {
             return 
                 string.Format(_baseUrl, region.ToString())
-                + GameType.ToString().Replace('_', '-') + "/" +
+                + Game.ToString().Replace('_', '-') + "/" +
                 EndPointType +  "/" ;
         }
 
+    }
+
+    public interface Da
+    {
+       public static string A { get; set; }
     }
 }
