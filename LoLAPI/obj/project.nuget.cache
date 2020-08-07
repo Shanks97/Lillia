@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "in8ELju/q3HI+1u0oF0pB9dPDQU0V70r81JnNzu4TnOixw7AH76jeXAvptkX8bx+E3EY+d6a1JurVXflD4u4+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanp\\source\\repos\\Lillia\\LoLAPI\\LoLAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

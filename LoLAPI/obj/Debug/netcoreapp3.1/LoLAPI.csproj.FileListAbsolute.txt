@@ -1,0 +1,9 @@
+C:\Users\juanp\source\repos\Lillia\LoLAPI\bin\Debug\netcoreapp3.1\LoLAPI.deps.json
+C:\Users\juanp\source\repos\Lillia\LoLAPI\bin\Debug\netcoreapp3.1\LoLAPI.dll
+C:\Users\juanp\source\repos\Lillia\LoLAPI\obj\Debug\netcoreapp3.1\LoLAPI.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\Lillia\LoLAPI\obj\Debug\netcoreapp3.1\LoLAPI.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Lillia\LoLAPI\obj\Debug\netcoreapp3.1\LoLAPI.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Lillia\LoLAPI\bin\Debug\netcoreapp3.1\LoLAPI.pdb
+C:\Users\juanp\source\repos\Lillia\LoLAPI\obj\Debug\netcoreapp3.1\LoLAPI.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Lillia\LoLAPI\obj\Debug\netcoreapp3.1\LoLAPI.dll
+C:\Users\juanp\source\repos\Lillia\LoLAPI\obj\Debug\netcoreapp3.1\LoLAPI.pdb
