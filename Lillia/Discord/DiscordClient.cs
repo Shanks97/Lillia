@@ -1,6 +1,8 @@
 ﻿using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
+using LoLAPI.EndPoints;
+using LoLAPI.Enums;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.IO;
@@ -63,9 +65,7 @@ namespace Lillia.Discord
         {
 
             Console.WriteLine(Client.CurrentUser.Username + "#" + Client.CurrentUser.Discriminator + " Is ready!");
-            await Client.SetGameAsync($"{Prefix} waiting 🕙", type: ActivityType.Watching).ConfigureAwait(false);
-
-
+            await Client.SetGameAsync($"Hip hip!", type: ActivityType.Watching).ConfigureAwait(false);
             if (!_initialized)
             {
                 _initialized = true;

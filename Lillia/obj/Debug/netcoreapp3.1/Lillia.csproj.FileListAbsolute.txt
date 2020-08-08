@@ -22,3 +22,5 @@ C:\Users\juanp\source\repos\Lillia\Lillia\obj\Debug\netcoreapp3.1\Lillia.csproj.
 C:\Users\juanp\source\repos\Lillia\Lillia\obj\Debug\netcoreapp3.1\Lillia.dll
 C:\Users\juanp\source\repos\Lillia\Lillia\obj\Debug\netcoreapp3.1\Lillia.pdb
 C:\Users\juanp\source\repos\Lillia\Lillia\obj\Debug\netcoreapp3.1\Lillia.genruntimeconfig.cache
+C:\Users\juanp\source\repos\Lillia\Lillia\bin\Debug\netcoreapp3.1\LoLAPI.dll
+C:\Users\juanp\source\repos\Lillia\Lillia\bin\Debug\netcoreapp3.1\LoLAPI.pdb

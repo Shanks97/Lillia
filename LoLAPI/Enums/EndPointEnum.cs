@@ -12,7 +12,7 @@ namespace LoLAPI.Enums
         clash,
         league_exp,
         league,
-        lol_status,
+        status,
         match,
         spectator,
         summoner,

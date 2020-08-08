@@ -6,7 +6,7 @@ namespace Lillia
 {
     class Program
     {
-        public static DiscordClient Client = new DiscordClient(".", "NzQwMjgzODgyNzIwNzIyOTQ0.XymxFw.B2gZ6D3Gk7DX6gd9dDcHd01lRqE");
+        public static DiscordClient Client = new DiscordClient(".", Environment.GetEnvironmentVariable("lillia"));
         static async Task Main(string[] args)
         {
             await Client.Run()
